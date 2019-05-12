@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Scrypt-5
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/scrypt-5/scrypt-5
 // @version      0.1
 // @description  Adds a badge icon to specific twitter accounts
 // @author       Scrypt-5
